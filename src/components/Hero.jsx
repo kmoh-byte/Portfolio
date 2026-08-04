@@ -10,8 +10,7 @@ export default function Hero() {
           <p className="hero__lede">
             I make small, sharp tools for people who care about how things feel. A
             local first AI assistant, a full gaming optimization platform, a gamepad
-            latency lab, and a hands-off mouse utility. Nothing enterprise, nothing
-            generic, everything in the loop, tuned by hand.
+            latency lab, and a hands-off mouse utility.
           </p>
         </div>
 
