@@ -40,7 +40,7 @@ const projects = [
     title: 'JOYBOY',
     years: '2026 – present',
     description:
-      'A tool that emulates gyro so Nintendo Switch Joy Cons work as controllers on PC, built in C++ on HIDAPI with 200 Hz polling for low latency input.',
+      'A tool that emulates gyro so Nintendo Switch Joy Cons work as controllers on PC, built in C++ on HIDAPI with 200 Hz polling for low latency input. The plan is to make a low latency option for one handed gamers.',
     tags: ['C++', 'HIDAPI', 'Low latency'],
     links: [{ label: 'code', url: 'https://github.com/kmoh-byte/Projects/tree/main/joyboy' }],
     media: { type: 'video', src: '/videos/joyboy.mp4' },
