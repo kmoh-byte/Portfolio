@@ -5,7 +5,7 @@ export default function Hero() {
         <div className="hero__main">
           <p className="hero__kicker">independent developer, since 2023</p>
           <h1 className="hero__title">
-            AI, PC tuning, and low latency input, <em>built from scratch.</em>
+            AI, PC tuning, and low latency input, <em>and embedded systems.</em>
           </h1>
           <p className="hero__lede">
             I make small, sharp tools for people who care about how things feel. A
