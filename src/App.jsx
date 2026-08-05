@@ -89,7 +89,7 @@ const projects = [
   },
   {
     title: 'OrthoMed',
-    years: '2021',
+    years: '2023',
     description:
       'Production firmware in C for a medical wearable vital signs monitor on the nRF52 series with the Nordic SDK. Implements a full BLE peripheral stack over the Nordic UART Service, including advertising, connection parameter negotiation, and GATT notifications. Integrates sensors over I2C and SPI using the MAX32664 bio sensor hub, MAX30208 temperature sensor, MAX20303 PMIC and battery charger, gyroscope, and an ECG front end, working directly from datasheet register maps. Adds NFC tag support and app timer driven RTC scheduling for low power periodic sampling, step through debugging on custom PCBs, and power delivery tuning to balance sensor cycling with the BLE radio duty cycle.',
     tags: ['C', 'nRF52', 'BLE', 'Sensors'],

@@ -21,7 +21,7 @@ export default function Hero() {
           </div>
           <div className="hero__meta">
             <span className="hero__meta-key">stack</span>
-            <span className="hero__meta-val">TypeScript · C++ · WebGPU · React</span>
+            <span className="hero__meta-val">TypeScript · C, C++ · WebGPU · React</span>
           </div>
           <div className="hero__meta">
             <span className="hero__meta-key">focus</span>
